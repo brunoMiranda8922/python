@@ -1,3 +1,7 @@
 __pycache__/*
 *.pyc
+<<<<<<< HEAD
 .vscode/
+=======
+*.vscode
+>>>>>>> 826596f629ead9d82e4da8045731b69208bd4c21
